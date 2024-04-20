@@ -1,8 +1,8 @@
-# Projeto (Project)
+# Projeto (Project) 
+- [Português](#portugues)
+- [Inglês](#ingles)
 
-- Português
-- English
-
+<a id="portugues"></a>
 ## A Ruína de Arquimedes
 <p align="center">
   <img src="https://github.com/TheRodrig0/A-ruina-de-Arquimedes/assets/86856395/1569878d-abf3-4308-b18c-bd0c800ff663" alt="manual de identidade (1) (1)">
@@ -25,6 +25,7 @@ Embarque na misteriosa jornada de ‘A Ruína de Arquimedes’, um RPG deslumbra
 
 <hr>
 
+<a id="ingles"></a>
 # The Doom of Arquimedes
 
 <p align="center">
